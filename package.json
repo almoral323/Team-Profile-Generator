@@ -1,0 +1,25 @@
+{
+    "name": "team-profile-generator",
+    "version": "1.0.0",
+    "description": "generates an html file of team profiles",
+    "main": "app.js",
+    "directories": {
+        "lib": "lib"
+    },
+    "dependencies": {
+        "inquirer": "^8.2.4",
+        "node-modules": "^1.0.1"
+    },
+    "devDependencies": {
+        "jest": "^27.0.6"
+    },
+    "scripts": {
+        "test": "jest",
+        "start": "node index.js"
+    },
+    "keywords": [
+        "team",
+        "profile"
+    ],
+    "license": "ISC"
+}
